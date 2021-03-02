@@ -15,10 +15,10 @@
   </div>
 </form>
     <p></p>
-    <p><h1><strong>Baptiste Joannet :</strong></h1> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
+    <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
     <p></p>
-    <p<h1>><strong>Aïmen Hbarou :</strong></h1> Le développeur technique du site, celui qui s'est occupé de la coordination entre les différentes pages.
+    <p><strong>Aïmen Hbarou :</strong> Le développeur technique du site, celui qui s'est occupé de la coordination entre les différentes pages.
     <p></p>
-    <p><h1><strong>Mathis Flinois :</strong></h1> Le développeur qui s'est occuper de l'aspect graphique du site.
+    <p><strong>Mathis Flinois :</strong> Le développeur qui s'est occuper de l'aspect graphique du site.
     <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil
