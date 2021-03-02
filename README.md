@@ -21,4 +21,4 @@
     <p></p>
     <p><strong>Mathis Flinois :</strong> Le développeur qui s'est occuper de l'aspect graphique du site.
     <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil
+    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil
