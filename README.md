@@ -6,13 +6,9 @@
 
   <body>
         <h1>Les développeurs :</h1>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
     <p><strong>Baptiste Joannet :</strong> Le meilleur des meilleurs. Le développeur qui a coder les pages du site. </p>
